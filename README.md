@@ -1,4 +1,4 @@
-# HEALTHCARE DAPP FOR SECURE SHARING OF PATIENT DATA FOR RESEARCH
+# HEALTHCARE DAPP FOR SHARING OF PATIENT DATA FOR RESEARCH
  
 1. Principal researchers would upload deidentified patient data
 2. Patient data is securely stored on the blockchain
