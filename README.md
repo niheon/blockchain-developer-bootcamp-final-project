@@ -1,9 +1,6 @@
-# Voting Contract Example Workflow
-
-1. Users will have to register themselves somehow on the contract
-
-2. They have to identify which campaign their voting on
-
-3. They'll have to submit a vote for that campaign.
-
-4. They can't vote twice for a single campaign 
+# HEALTHCARE DAPP FOR SECURE SHARING OF PATIENT DATA FOR RESEARCH
+ 
+1. Principal researchers would upload deidentified patient data
+2. Patient data is securely stored on the blockchain
+3. Other researchers seeking access to the patient data would need to obtain approval (i.e. a public key) from one or more principal researcher
+4. Using the public key, other researchers can access and retreive the paitent data
